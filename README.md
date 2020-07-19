@@ -1,2 +1,2 @@
-# motd
+# bash.bashrc
 # motd for termux
