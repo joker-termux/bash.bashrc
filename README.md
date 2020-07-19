@@ -1,1 +1,2 @@
 # motd
+# motd for termux
