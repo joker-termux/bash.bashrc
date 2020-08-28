@@ -10,5 +10,5 @@ W='\033[1;37m'
 
 #12###              banner
 system('toilet -f mono12 -F gay joker-termux')
-print("\033[1;32m       motd for termux--{ ^_^ }--Welcome To Joker-termux-motd ")
-print("\033[1;37m       ====================================================== ")
+print("\033[1;32m       them for termux--{ ^_^ }--Welcome To Joker-termux-world ")
+print("\033[1;37m       ======================================================  ")
